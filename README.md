@@ -15,7 +15,7 @@ VirusTotal.com uses multiple virus databases to scan files for malware. Mar 2023
 
 One reason to use this script (that uses the [VirusTotal.com](https://virustotal.com) API) instead of ClamAV is that VirusTotal.com uses multiple antivirus engines and malware scanners to detect malware, which increases the likelihood of detecting malicious files. 
 
-I created a malicious program that completely takes over the computer using Kali Linux (Reverse Shell, meterpreter). ClamAV was unable to detect it, but this program does. 
+I created a malicious program that completely takes over the computer using Kali Linux (Reverse Shell, meterpreter). ClamAV was unable to detect it (but this github program does). 
 
 Demo:
 [<img src="https://img.youtube.com/vi/n3sOSCjfI8I/maxresdefault.jpg" width="50%">](https://youtu.be/n3sOSCjfI8I)
