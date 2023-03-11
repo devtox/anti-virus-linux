@@ -1,5 +1,5 @@
 
-<video src='https://www.youtube.com/watch?v=ipyWj7IY5g8' width=180/></video>
+[<img src="https://img.youtube.com/vi/ipyWj7IY5g8/maxresdefault.jpg" width="50%">](https://youtu.be/ipyWj7IY5g8)
 
 ## Installation
 
