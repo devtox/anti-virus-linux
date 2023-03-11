@@ -13,7 +13,7 @@ VirusTotal.com uses multiple virus databases to scan files for malware. Mar 2023
 
 ## Why not use ClamAV?
 
-One reason to use VirusTotal.com instead of ClamAV is that VirusTotal.com uses multiple antivirus engines and malware scanners to detect malware, which increases the likelihood of detecting malicious files. 
+One reason to use this script (that uses the [VirusTotal.com](https://virustotal.com) API) instead of ClamAV is that VirusTotal.com uses multiple antivirus engines and malware scanners to detect malware, which increases the likelihood of detecting malicious files. 
 
 I created a malicious program that completely takes over the computer using Kali Linux (Reverse Shell, meterpreter). ClamAV was unable to detect it, but this program does. 
 
@@ -25,7 +25,7 @@ Like any other operating system, Linux is vulnerable to security threats such as
 
 2. **Phishing:** Phishing is a social engineering attack where attackers trick users into divulging sensitive information or installing malware by posing as a trustworthy entity. Linux users can fall victim to phishing attacks just like any other users.
 
-3. **Remote access tools:** Remote access tools like VNC, SSH, or RDP can be used by attackers to gain unauthorized access to a Linux system. Attackers can use these tools to execute commands, steal data, or install malware. Learn about [RAT](https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/)
+3. **Remote access tools:** Remote access tools like VNC, SSH, or RDP can be used by attackers to gain unauthorized access to a Linux system. Attackers can use these tools to execute commands, steal data, or install malware. Learn about [Network Hacking](https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/)
 
 4. **Reverse shells:** A reverse shell is a type of shell that allows attackers to control a compromised system from a remote location. Attackers can use reverse shells to execute commands, download files, and exfiltrate data. Learn about [Reverse Shells](https://www.udemy.com/course/ethical-hacking-reverse-shells/)
 
