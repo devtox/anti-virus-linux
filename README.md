@@ -33,7 +33,7 @@ Like any other operating system, Linux is vulnerable to security threats such as
 
 6. Password attacks: Password attacks can be used to gain access to Linux systems by brute-forcing or guessing weak passwords. Attackers can also use stolen or leaked credentials to gain access to systems.
 
-Learn: ![Password Cracking: Brute Forcing](https://www.udemy.com/course/password-cracking-brute-forcing/)
+Learn: [Password Cracking: Brute Forcing](https://www.udemy.com/course/password-cracking-brute-forcing/)
 
 These are just some examples of how Linux systems can be compromised. It's important to take steps to secure your Linux systems, such as keeping software up to date, using strong passwords, and using security tools like firewalls and antivirus software.
 
