@@ -19,19 +19,19 @@ I created a malicious program that completely takes over the computer using Kali
 
 ## But my Linux is secure and I can't get hacked!@
 
-Like any other operating system, Linux is vulnerable to security threats such as viruses, malware, and hacking attempts. Here are some examples of how Linux systems can be compromised:
+Like any other operating system, Linux is vulnerable to security threats such as viruses, malware, and hacking attempts. Here are some examples of how Linux systems can be compromised and links to my courses:
 
-1. Malware: Malware is any software designed to harm a computer system, and it can infect Linux systems just as easily as it can infect Windows or macOS systems. Some common types of Linux malware include trojan horses, backdoors, and rootkits.
+1. **Malware:** Malware is any software designed to harm a computer system, and it can infect Linux systems just as easily as it can infect Windows or macOS systems. Some common types of Linux malware include trojan horses, backdoors, and rootkits.
 
-2. Phishing: Phishing is a social engineering attack where attackers trick users into divulging sensitive information or installing malware by posing as a trustworthy entity. Linux users can fall victim to phishing attacks just like any other users.
+2. **Phishing:** Phishing is a social engineering attack where attackers trick users into divulging sensitive information or installing malware by posing as a trustworthy entity. Linux users can fall victim to phishing attacks just like any other users.
 
-3. Remote access tools: Remote access tools like VNC, SSH, or RDP can be used by attackers to gain unauthorized access to a Linux system. Attackers can use these tools to execute commands, steal data, or install malware.
+3. **Remote access tools:** Remote access tools like VNC, SSH, or RDP can be used by attackers to gain unauthorized access to a Linux system. Attackers can use these tools to execute commands, steal data, or install malware. Learn about [RAT](https://www.udemy.com/course/ethical-hacking-network-exploitation-basics/)
 
-4. Reverse shells: A reverse shell is a type of shell that allows attackers to control a compromised system from a remote location. Attackers can use reverse shells to execute commands, download files, and exfiltrate data.
+4. **Reverse shells:** A reverse shell is a type of shell that allows attackers to control a compromised system from a remote location. Attackers can use reverse shells to execute commands, download files, and exfiltrate data. Learn about [Reverse Shells](https://www.udemy.com/course/ethical-hacking-reverse-shells/)
 
-5. Exploits: Vulnerabilities in software or hardware can be exploited by attackers to gain access to a Linux system. Attackers can use exploits to execute arbitrary code, escalate privileges, or gain access to sensitive data.
+5. **Exploits:** Vulnerabilities in software or hardware can be exploited by attackers to gain access to a Linux system. Attackers can use exploits to execute arbitrary code, escalate privileges, or gain access to sensitive data. Learn about [Privilege Escalation](https://www.udemy.com/course/ethical-hacking-linux-privilege-escalation/)
 
-6. Password attacks: Password attacks can be used to gain access to Linux systems by brute-forcing or guessing weak passwords. Attackers can also use stolen or leaked credentials to gain access to systems. Learn about [Password Cracking: Brute Forcing](https://www.udemy.com/course/password-cracking-brute-forcing/)
+6. **Password attacks:** Password attacks can be used to gain access to Linux systems by brute-forcing or guessing weak passwords. Attackers can also use stolen or leaked credentials to gain access to systems. Learn about [Password Cracking: Brute Forcing](https://www.udemy.com/course/password-cracking-brute-forcing/)
 
 These are just some examples of how Linux systems can be compromised. It's important to take steps to secure your Linux systems, such as keeping software up to date, using strong passwords, and using security tools like firewalls and antivirus software.
 
