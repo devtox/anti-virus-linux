@@ -35,6 +35,14 @@ Like any other operating system, Linux is vulnerable to security threats such as
 
 These are just some examples of how Linux systems can be compromised. It's important to take steps to secure your Linux systems, such as keeping software up to date, using strong passwords, and using security tools like firewalls and antivirus software.
 
+## Limitations
+
+This program has some limitations
+
+1. Only scans ~/Downloads directory (but you can change in code)
+2. VirusTotal.com API allows maximal 4 files per second
+3. No more than 500 checks a day (with free API)
+
 ## Installation
 
 Step 1: Change your API key realtime.py
